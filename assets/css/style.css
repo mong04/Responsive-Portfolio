@@ -189,6 +189,7 @@ h3,
 }
 
 .auth-image {
+    max-width: 70%;
     float: left;
     margin-right: 25px;
     margin-bottom: 25px;
